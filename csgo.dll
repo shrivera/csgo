@@ -1,0 +1,60 @@
+{
+ "comments": [
+  {
+   "module": "csgo.dll",
+   "address": "0x5BBC7",
+   "manual": true,
+   "text": "60399148:\"[MemoryHackers ] | MH   - rev.20181214\\n\""
+  },
+  {
+   "module": "csgo.dll",
+   "address": "0xAC0E9",
+   "manual": true,
+   "text": "6039F0C4:\"MemoryHackers.ORG Korumasi Aktif Ediliyor\\n\""
+  },
+  {
+   "module": "csgo.dll",
+   "address": "0xB410D",
+   "manual": true,
+   "text": "6039F7D4:\"\\\\MH  \\\\\""
+  },
+  {
+   "module": "csgo.dll",
+   "address": "0xAC102",
+   "manual": true,
+   "text": "6039F0F0:\"         MH   Kuruluyor\\n\""
+  },
+  {
+   "module": "csgo.dll",
+   "address": "0xB3BDB",
+   "manual": true,
+   "text": "603A0474:\"MH   Klan Tagi##Other\""
+  },
+  {
+   "module": "csgo.dll",
+   "address": "0xB4468",
+   "manual": true,
+   "text": "6039F7E8:\"\\\\MH  \\\\\""
+  },
+  {
+   "module": "csgo.dll",
+   "address": "0xB3F5D",
+   "manual": true,
+   "text": "6039F7B0:\"\\\\MH  \\\\\""
+  },
+  {
+   "module": "csgo.dll",
+   "address": "0xB42D6",
+   "manual": true,
+   "text": "6039F7F4:\"\\\\MH  \\\\\""
+  },
+  {
+   "module": "csgo.dll",
+   "address": "0x57A74",
+   "manual": true,
+   "text": "60399048:\"[MemoryHackers  ] | MH  \""
+  }
+ ],
+ "hashAlgorithm": "murmurhash",
+ "hash": "0xDFCC0842"
+}
